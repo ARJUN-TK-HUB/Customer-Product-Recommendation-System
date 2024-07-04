@@ -74,13 +74,15 @@ The primary objective of this project is to predict top product recommendations 
 - numpy
 - scikit-learn
 
-Install the required libraries using:
-```bash
-pip install -r requirements.txt
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 This project is inspired by the need to enhance personalized product recommendations for improved customer satisfaction using advanced data analysis techniques.
+
+
+
+Install the required libraries using:
+```bash
+pip install -r requirements.txt
 
